@@ -19,8 +19,8 @@ Key details:
 
 ## Images
 
-![Front View](path/to/images/front.jpg)
-![Back View](path/to/images/back.jpg)
+![Front View](front.jpg)
+![Back View](back.jpg)
 
 ## Contents
 
