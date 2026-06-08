@@ -7,7 +7,6 @@ Open this directory with:
 
 https://pcbtracer.com/app.html
 
-
 ## Truma B10 Rev 4 Control Board
 
 The **Truma B10 Rev 4** control board (often marked **B096 c01.98 Rev 4**) was built around **1998** (late 1990s to early 2000s).  
@@ -16,6 +15,12 @@ Units equipped with this revision were commonly produced and installed from ~199
 Key details:
 - Date code `c01.98` refers to January 1998 (board design/finalization).
 - Production year can be decoded from the boiler's type plate serial number (first two digits minus 11 = year).
+
+
+## Images
+
+![Front View](path/to/images/front.jpg)
+![Back View](path/to/images/back.jpg)
 
 ## Contents
 
