@@ -1,0 +1,7767 @@
+{
+  "design_info": {
+    "name": "asdf",
+    "version": "1.0",
+    "date": "2026-06-06"
+  },
+  "components": [
+    {
+      "designator": "CB1",
+      "package": "",
+      "description": "Spark GAP Element",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_137_172"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_173_210"
+        }
+      ]
+    },
+    {
+      "designator": "CE1",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "-",
+          "type": "passive",
+          "node_id": "node_n_198_248"
+        },
+        {
+          "number": "2",
+          "name": "+",
+          "type": "passive",
+          "node_id": "node_n_197_247"
+        }
+      ]
+    },
+    {
+      "designator": "CE2",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "+",
+          "type": "passive",
+          "node_id": "node_n_50_77"
+        },
+        {
+          "number": "2",
+          "name": "-",
+          "type": "passive",
+          "node_id": "node_n_52_79"
+        }
+      ]
+    },
+    {
+      "designator": "CE3",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "-",
+          "type": "passive",
+          "node_id": "node_n_48_75"
+        },
+        {
+          "number": "2",
+          "name": "+",
+          "type": "passive",
+          "node_id": "node_n_49_76"
+        }
+      ]
+    },
+    {
+      "designator": "CE4",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "+",
+          "type": "passive",
+          "node_id": "node_n_71_100"
+        },
+        {
+          "number": "2",
+          "name": "-",
+          "type": "passive",
+          "node_id": "node_n_70_99"
+        }
+      ]
+    },
+    {
+      "designator": "CE5",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "-",
+          "type": "passive",
+          "node_id": "node_n_8_41"
+        },
+        {
+          "number": "2",
+          "name": "+",
+          "type": "passive",
+          "node_id": "node_n_72_101"
+        }
+      ]
+    },
+    {
+      "designator": "CE6",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "-",
+          "type": "passive",
+          "node_id": "node_n_10_32"
+        },
+        {
+          "number": "2",
+          "name": "+",
+          "type": "passive",
+          "node_id": "node_n_193_237"
+        }
+      ]
+    },
+    {
+      "designator": "CE7",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "+",
+          "type": "passive",
+          "node_id": "node_n_69_98"
+        },
+        {
+          "number": "2",
+          "name": "-",
+          "type": "passive",
+          "node_id": "node_n_68_97"
+        }
+      ]
+    },
+    {
+      "designator": "CE8",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "-",
+          "type": "passive",
+          "node_id": "node_n_80_110"
+        },
+        {
+          "number": "2",
+          "name": "+",
+          "type": "passive",
+          "node_id": "node_n_81_111"
+        }
+      ]
+    },
+    {
+      "designator": "CE9",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "+",
+          "type": "passive",
+          "node_id": "node_n_168_204"
+        },
+        {
+          "number": "2",
+          "name": "-",
+          "type": "passive",
+          "node_id": "node_n_168_204"
+        }
+      ]
+    },
+    {
+      "designator": "CF1",
+      "package": "",
+      "tolerance": "+/-10%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_103_138"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_120_155"
+        }
+      ]
+    },
+    {
+      "designator": "CF2",
+      "package": "",
+      "tolerance": "+/-10%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_121_156"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_148_183"
+        }
+      ]
+    },
+    {
+      "designator": "CF3",
+      "package": "",
+      "tolerance": "+/-10%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_146_181"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_149_184"
+        }
+      ]
+    },
+    {
+      "designator": "CF4",
+      "package": "",
+      "tolerance": "+/-10%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_141_176"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_139_174"
+        }
+      ]
+    },
+    {
+      "designator": "CF5",
+      "package": "",
+      "tolerance": "+/-10%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_55_82"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_35_61"
+        }
+      ]
+    },
+    {
+      "designator": "CF6",
+      "package": "",
+      "tolerance": "+/-10%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_41_68"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_36_63"
+        }
+      ]
+    },
+    {
+      "designator": "CF7",
+      "package": "",
+      "tolerance": "+/-10%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_2_39"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_8_41"
+        }
+      ]
+    },
+    {
+      "designator": "CF8",
+      "package": "",
+      "tolerance": "+/-10%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_3_27"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_1_24"
+        }
+      ]
+    },
+    {
+      "designator": "CV1",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_130_165"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_129_164"
+        }
+      ]
+    },
+    {
+      "designator": "D1",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "K",
+          "type": "passive",
+          "node_id": "node_n_4_25"
+        },
+        {
+          "number": "2",
+          "name": "A",
+          "type": "passive",
+          "node_id": "node_n_3_27"
+        }
+      ]
+    },
+    {
+      "designator": "D2",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "K",
+          "type": "passive",
+          "node_id": "node_n_1_24"
+        },
+        {
+          "number": "2",
+          "name": "A",
+          "type": "passive",
+          "node_id": "node_n_3_27"
+        }
+      ]
+    },
+    {
+      "designator": "D3",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "K",
+          "type": "passive",
+          "node_id": "node_n_1_24"
+        },
+        {
+          "number": "2",
+          "name": "A",
+          "type": "passive",
+          "node_id": "node_n_5_43"
+        }
+      ]
+    },
+    {
+      "designator": "D4",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "K",
+          "type": "passive",
+          "node_id": "node_n_22_13"
+        },
+        {
+          "number": "2",
+          "name": "A",
+          "type": "passive",
+          "node_id": "node_n_30_53"
+        }
+      ]
+    },
+    {
+      "designator": "D5",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "K",
+          "type": "passive",
+          "node_id": "node_n_7_55"
+        },
+        {
+          "number": "2",
+          "name": "A",
+          "type": "passive",
+          "node_id": "node_n_33_58"
+        }
+      ]
+    },
+    {
+      "designator": "D6",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "K",
+          "type": "passive",
+          "node_id": "node_n_136_171"
+        },
+        {
+          "number": "2",
+          "name": "A",
+          "type": "passive",
+          "node_id": "node_n_158_193"
+        }
+      ]
+    },
+    {
+      "designator": "D7",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "A",
+          "type": "passive",
+          "node_id": "node_n_178_215"
+        },
+        {
+          "number": "2",
+          "name": "K",
+          "type": "passive",
+          "node_id": "node_n_179_216"
+        }
+      ]
+    },
+    {
+      "designator": "D8",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "K",
+          "type": "passive",
+          "node_id": "node_n_183_220"
+        },
+        {
+          "number": "2",
+          "name": "A",
+          "type": "passive",
+          "node_id": "node_n_186_223"
+        }
+      ]
+    },
+    {
+      "designator": "F1",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_5vdc_14"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_31_56"
+        }
+      ]
+    },
+    {
+      "designator": "F2",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_65_92"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_66_93"
+        }
+      ]
+    },
+    {
+      "designator": "J1",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "Gas Valve (green)",
+          "type": "passive",
+          "node_id": "node_n_201_268"
+        },
+        {
+          "number": "2",
+          "name": "Gas Valve (red)",
+          "type": "passive",
+          "node_id": "node_n_202_269"
+        },
+        {
+          "number": "3",
+          "name": "Upper TEMP Sensor",
+          "type": "passive",
+          "node_id": "node_n_203_270"
+        },
+        {
+          "number": "4",
+          "name": "Ionisation Diode +",
+          "type": "bidirectional",
+          "node_id": "node_n_204_271"
+        },
+        {
+          "number": "5",
+          "name": "Lower TEMP Sensor (orange)",
+          "type": "passive",
+          "node_id": "node_n_205_272"
+        },
+        {
+          "number": "6",
+          "name": "unused",
+          "type": "passive",
+          "node_id": "node_n_206_273"
+        },
+        {
+          "number": "7",
+          "name": "Ionisation Diode -",
+          "type": "bidirectional",
+          "node_id": "node_n_207_274"
+        },
+        {
+          "number": "8",
+          "name": "?",
+          "type": "passive",
+          "node_id": "node_n_208_275"
+        },
+        {
+          "number": "9",
+          "name": "GND Lower TEMP Sensor (orange)",
+          "type": "passive",
+          "node_id": "node_n_209_276"
+        },
+        {
+          "number": "10",
+          "name": "GND",
+          "type": "power",
+          "node_id": "node_n_210_277"
+        },
+        {
+          "number": "11",
+          "name": "11",
+          "type": "passive",
+          "node_id": "node_n_211_278"
+        },
+        {
+          "number": "12",
+          "name": "Plus +12",
+          "type": "passive",
+          "node_id": "node_n_212_279"
+        }
+      ]
+    },
+    {
+      "designator": "J2",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "+ 12V",
+          "type": "passive",
+          "node_id": "node_n_213_280"
+        },
+        {
+          "number": "2",
+          "name": "ON/OFF +12V",
+          "type": "passive",
+          "node_id": "node_n_214_281"
+        },
+        {
+          "number": "3",
+          "name": "Potti V OUT (Temp wish)",
+          "type": "output",
+          "node_id": "node_n_215_282"
+        },
+        {
+          "number": "4",
+          "name": "RED LED",
+          "type": "passive",
+          "node_id": "node_n_216_283"
+        },
+        {
+          "number": "5",
+          "name": "GND",
+          "type": "power",
+          "node_id": "node_n_217_284"
+        },
+        {
+          "number": "6",
+          "name": "unused",
+          "type": "passive",
+          "node_id": "node_n_218_285"
+        }
+      ]
+    },
+    {
+      "designator": "J3",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_219_286"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_220_287"
+        },
+        {
+          "number": "3",
+          "name": "LM324N OUT 1 (gas valve open)",
+          "type": "output",
+          "node_id": "node_n_222_289"
+        },
+        {
+          "number": "4",
+          "name": "Gas Valve (GREEN)",
+          "type": "passive",
+          "node_id": "node_n_221_288"
+        }
+      ]
+    },
+    {
+      "designator": "K1",
+      "package": "",
+      "description": "abab1",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_63_90"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_64_91"
+        },
+        {
+          "number": "3",
+          "name": "3",
+          "type": "passive",
+          "node_id": "node_n_60_87"
+        },
+        {
+          "number": "4",
+          "name": "4",
+          "type": "passive",
+          "node_id": "node_n_61_88"
+        },
+        {
+          "number": "5",
+          "name": "5",
+          "type": "passive",
+          "node_id": "node_n_59_86"
+        },
+        {
+          "number": "6",
+          "name": "6",
+          "type": "passive",
+          "node_id": "node_n_58_85"
+        },
+        {
+          "number": "7",
+          "name": "7",
+          "type": "passive",
+          "node_id": "node_n_56_83"
+        },
+        {
+          "number": "8",
+          "name": "8",
+          "type": "passive",
+          "node_id": "node_n_57_84"
+        }
+      ]
+    },
+    {
+      "designator": "K2",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_5_43"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_83_115"
+        },
+        {
+          "number": "3",
+          "name": "3",
+          "type": "passive",
+          "node_id": "node_n_8_41"
+        },
+        {
+          "number": "4",
+          "name": "4",
+          "type": "passive",
+          "node_id": "node_n_82_114"
+        },
+        {
+          "number": "5",
+          "name": "5",
+          "type": "passive",
+          "node_id": "node_n_7_55"
+        },
+        {
+          "number": "6",
+          "name": "6",
+          "type": "passive",
+          "node_id": "node_n_9_46"
+        },
+        {
+          "number": "7",
+          "name": "7",
+          "type": "passive",
+          "node_id": "node_n_194_238"
+        },
+        {
+          "number": "8",
+          "name": "8",
+          "type": "passive",
+          "node_id": "node_n_6_112"
+        }
+      ]
+    },
+    {
+      "designator": "L1",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_38_65"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_34_59"
+        }
+      ]
+    },
+    {
+      "designator": "L2",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_175_212"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_157_192"
+        }
+      ]
+    },
+    {
+      "designator": "L4",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_177_214"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_176_213"
+        },
+        {
+          "number": "3",
+          "name": "3",
+          "type": "passive",
+          "node_id": "node_n_160_195"
+        },
+        {
+          "number": "4",
+          "name": "4",
+          "type": "passive",
+          "node_id": "node_n_172_209"
+        }
+      ]
+    },
+    {
+      "designator": "Q4",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "Source",
+          "type": "passive",
+          "node_id": "node_n_85_117"
+        },
+        {
+          "number": "2",
+          "name": "Gate",
+          "type": "passive",
+          "node_id": "node_n_86_119"
+        },
+        {
+          "number": "3",
+          "name": "Drain",
+          "type": "input",
+          "node_id": "node_n_5_43"
+        }
+      ]
+    },
+    {
+      "designator": "Q5",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "Source",
+          "type": "passive",
+          "node_id": "node_n_182_219"
+        },
+        {
+          "number": "2",
+          "name": "Gate",
+          "type": "passive",
+          "node_id": "node_n_181_218"
+        },
+        {
+          "number": "3",
+          "name": "Drain",
+          "type": "input",
+          "node_id": "node_n_180_217"
+        }
+      ]
+    },
+    {
+      "designator": "Q6",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "Source",
+          "type": "passive",
+          "node_id": "node_n_88_121"
+        },
+        {
+          "number": "2",
+          "name": "Gate",
+          "type": "passive",
+          "node_id": "node_n_89_122"
+        },
+        {
+          "number": "3",
+          "name": "Drain",
+          "type": "input",
+          "node_id": "node_n_87_120"
+        }
+      ]
+    },
+    {
+      "designator": "Q7",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "Source",
+          "type": "passive",
+          "node_id": "node_n_44_71"
+        },
+        {
+          "number": "2",
+          "name": "Gate",
+          "type": "passive",
+          "node_id": "node_n_43_70"
+        },
+        {
+          "number": "3",
+          "name": "Drain",
+          "type": "input",
+          "node_id": "node_n_51_78"
+        }
+      ]
+    },
+    {
+      "designator": "Q8",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "Source",
+          "type": "passive",
+          "node_id": "node_n_169_206"
+        },
+        {
+          "number": "2",
+          "name": "Gate",
+          "type": "passive",
+          "node_id": "node_n_163_198"
+        },
+        {
+          "number": "3",
+          "name": "Drain",
+          "type": "input",
+          "node_id": "node_n_162_197"
+        }
+      ]
+    },
+    {
+      "designator": "R1",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_101_134"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_104_139"
+        }
+      ]
+    },
+    {
+      "designator": "R2",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_105_140"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_119_154"
+        }
+      ]
+    },
+    {
+      "designator": "R3",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_97_130"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_106_141"
+        }
+      ]
+    },
+    {
+      "designator": "R4",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_96_129"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_107_142"
+        }
+      ]
+    },
+    {
+      "designator": "R5",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_95_128"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_108_143"
+        }
+      ]
+    },
+    {
+      "designator": "R6",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_94_127"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_109_144"
+        }
+      ]
+    },
+    {
+      "designator": "R7",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_93_126"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_110_145"
+        }
+      ]
+    },
+    {
+      "designator": "R8",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_78_108"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_131_166"
+        }
+      ]
+    },
+    {
+      "designator": "R9",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_77_107"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_132_167"
+        }
+      ]
+    },
+    {
+      "designator": "R10",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_76_106"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_133_168"
+        }
+      ]
+    },
+    {
+      "designator": "R11",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_74_104"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_134_169"
+        }
+      ]
+    },
+    {
+      "designator": "R12",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_75_105"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_135_170"
+        }
+      ]
+    },
+    {
+      "designator": "R13",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_73_103"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_79_109"
+        }
+      ]
+    },
+    {
+      "designator": "R14",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_147_182"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_150_185"
+        }
+      ]
+    },
+    {
+      "designator": "R15",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_156_191"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_154_189"
+        }
+      ]
+    },
+    {
+      "designator": "R16",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_145_180"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_151_186"
+        }
+      ]
+    },
+    {
+      "designator": "R17",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_144_179"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_152_187"
+        }
+      ]
+    },
+    {
+      "designator": "R18",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_143_178"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_153_188"
+        }
+      ]
+    },
+    {
+      "designator": "R19",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_142_177"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_155_190"
+        }
+      ]
+    },
+    {
+      "designator": "R20",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_166_202"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_164_200"
+        }
+      ]
+    },
+    {
+      "designator": "R21",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_185_222"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_184_221"
+        }
+      ]
+    },
+    {
+      "designator": "R22",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_98_131"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_92_125"
+        }
+      ]
+    },
+    {
+      "designator": "R23",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_102_135"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_100_133"
+        }
+      ]
+    },
+    {
+      "designator": "R24",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_10_32"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_91_124"
+        }
+      ]
+    },
+    {
+      "designator": "R25",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_40_67"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_53_80"
+        }
+      ]
+    },
+    {
+      "designator": "R26",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_39_66"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_37_64"
+        }
+      ]
+    },
+    {
+      "designator": "R27",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_28_34"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_27_33"
+        }
+      ]
+    },
+    {
+      "designator": "R28",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_195_242"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_10_32"
+        }
+      ]
+    },
+    {
+      "designator": "R30",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_54_81"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_62_89"
+        }
+      ]
+    },
+    {
+      "designator": "R31",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_9_46"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_29_48"
+        }
+      ]
+    },
+    {
+      "designator": "R32",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_10_32"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_11_19"
+        }
+      ]
+    },
+    {
+      "designator": "R33",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_4_25"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_2_39"
+        }
+      ]
+    },
+    {
+      "designator": "R34",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_171_208"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_161_196"
+        }
+      ]
+    },
+    {
+      "designator": "R35",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive",
+          "node_id": "node_n_118_153"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive",
+          "node_id": "node_n_111_146"
+        }
+      ]
+    },
+    {
+      "designator": "U1",
+      "package": "Other",
+      "part_number": "LM324N",
+      "description": "These circuits consist of four independent, high gain, internally frequency compensated operational amplifiers. They operate from a single power supply over a wide range of voltages. Operation from split power supplies is also possible and the low power supply current drain is independent of the magnitude of the power supply voltage.",
+      "pins": [
+        {
+          "number": "1",
+          "name": "Output 1",
+          "type": "output",
+          "node_id": "node_n_199_250"
+        },
+        {
+          "number": "2",
+          "name": "Inverting Input 1",
+          "type": "analog",
+          "node_id": "node_n_117_152"
+        },
+        {
+          "number": "3",
+          "name": "Non-inverting Input 1",
+          "type": "analog",
+          "node_id": "node_n_116_151"
+        },
+        {
+          "number": "4",
+          "name": "Vcc+",
+          "type": "power",
+          "node_id": "node_n_115_150"
+        },
+        {
+          "number": "5",
+          "name": "Non-inverting Input 2",
+          "type": "analog",
+          "node_id": "node_n_114_149"
+        },
+        {
+          "number": "6",
+          "name": "Inverting Input 2",
+          "type": "analog",
+          "node_id": "node_n_113_148"
+        },
+        {
+          "number": "7",
+          "name": "Output 2",
+          "type": "output",
+          "node_id": "node_n_112_147"
+        },
+        {
+          "number": "8",
+          "name": "Output 3",
+          "type": "output",
+          "node_id": "node_n_128_163"
+        },
+        {
+          "number": "9",
+          "name": "Inverting Input 3",
+          "type": "analog",
+          "node_id": "node_n_127_162"
+        },
+        {
+          "number": "10",
+          "name": "Non-inverting Input 3",
+          "type": "analog",
+          "node_id": "node_n_126_161"
+        },
+        {
+          "number": "11",
+          "name": "Vcc-",
+          "type": "power",
+          "node_id": "node_n_125_160"
+        },
+        {
+          "number": "12",
+          "name": "Non-inverting Input 4",
+          "type": "analog",
+          "node_id": "node_n_124_159"
+        },
+        {
+          "number": "13",
+          "name": "Inverting Input 4",
+          "type": "analog",
+          "node_id": "node_n_123_158"
+        },
+        {
+          "number": "14",
+          "name": "Output 4",
+          "type": "output",
+          "node_id": "node_n_122_157"
+        }
+      ]
+    },
+    {
+      "designator": "Z1",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "A",
+          "type": "passive",
+          "node_id": "node_n_47_74"
+        },
+        {
+          "number": "2",
+          "name": "K",
+          "type": "passive",
+          "node_id": "node_n_42_69"
+        }
+      ]
+    },
+    {
+      "designator": "Z2",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "A",
+          "type": "passive",
+          "node_id": "node_n_165_201"
+        },
+        {
+          "number": "2",
+          "name": "K",
+          "type": "passive",
+          "node_id": "node_n_170_207"
+        }
+      ]
+    },
+    {
+      "designator": "Z3",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "K",
+          "type": "passive",
+          "node_id": "node_n_99_132"
+        },
+        {
+          "number": "2",
+          "name": "A",
+          "type": "passive",
+          "node_id": "node_n_90_123"
+        }
+      ]
+    },
+    {
+      "designator": "Z4",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "A",
+          "type": "passive",
+          "node_id": "node_n_5_43"
+        },
+        {
+          "number": "2",
+          "name": "K",
+          "type": "passive",
+          "node_id": "node_n_84_116"
+        }
+      ]
+    }
+  ],
+  "nets": [
+    {
+      "name": "GND",
+      "numeric_name": "GND",
+      "logical_name": null,
+      "type": "power_ground",
+      "nodes": [
+        {
+          "id": "node_gnd_233",
+          "connections": [
+            {
+              "type": "via",
+              "ref": "via_233",
+              "x": 131.7068797872645,
+              "y": 121.1107792367471
+            }
+          ],
+          "expected_voltage": {
+            "min": -0.1,
+            "max": 0.1,
+            "nominal": 0
+          },
+          "signal_type": "ground",
+          "criticality": "high"
+        }
+      ]
+    },
+    {
+      "name": "+5VDC",
+      "numeric_name": "+5VDC",
+      "logical_name": null,
+      "type": "power",
+      "nodes": [
+        {
+          "id": "node_5vdc_14",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_14",
+              "x": 838.9193797872645,
+              "y": -843.7316207632529
+            },
+            {
+              "type": "pad",
+              "ref": "pad_11",
+              "x": 1120.9193797872645,
+              "y": -846.7316207632529
+            },
+            {
+              "type": "component_pin",
+              "component": "F1",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 4.75,
+            "max": 5.25,
+            "nominal": 5
+          },
+          "signal_type": "power",
+          "criticality": "high"
+        }
+      ]
+    },
+    {
+      "name": "12PLUS",
+      "numeric_name": "N$21",
+      "logical_name": "12PLUS",
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_21_10",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_10",
+              "x": 1350.3638797872645,
+              "y": -931.0094207632529
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$1",
+      "numeric_name": "N$1",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_1_24",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_24",
+              "x": 205.9193797872646,
+              "y": -931.7316207632529
+            },
+            {
+              "type": "component_pin",
+              "component": "CF8",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            },
+            {
+              "type": "component_pin",
+              "component": "D2",
+              "pin": "1",
+              "pin_name": "K",
+              "pin_type": "passive"
+            },
+            {
+              "type": "component_pin",
+              "component": "D3",
+              "pin": "1",
+              "pin_name": "K",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$10",
+      "numeric_name": "N$10",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_10_32",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R32",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            },
+            {
+              "type": "component_pin",
+              "component": "CE6",
+              "pin": "1",
+              "pin_name": "-",
+              "pin_type": "passive"
+            },
+            {
+              "type": "component_pin",
+              "component": "R24",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            },
+            {
+              "type": "component_pin",
+              "component": "R28",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$100",
+      "numeric_name": "N$100",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_100_133",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R23",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$101",
+      "numeric_name": "N$101",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_101_134",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R1",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$102",
+      "numeric_name": "N$102",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_102_135",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R23",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$103",
+      "numeric_name": "N$103",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_103_138",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CF1",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$104",
+      "numeric_name": "N$104",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_104_139",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R1",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$105",
+      "numeric_name": "N$105",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_105_140",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R2",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$106",
+      "numeric_name": "N$106",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_106_141",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R3",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$107",
+      "numeric_name": "N$107",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_107_142",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R4",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$108",
+      "numeric_name": "N$108",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_108_143",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R5",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$109",
+      "numeric_name": "N$109",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_109_144",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R6",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$11",
+      "numeric_name": "N$11",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_11_19",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_19",
+              "x": 544.9193797872645,
+              "y": -927.7316207632529
+            },
+            {
+              "type": "pad",
+              "ref": "pad_17",
+              "x": 667.9193797872645,
+              "y": -930.7316207632529
+            },
+            {
+              "type": "pad",
+              "ref": "pad_15",
+              "x": 772.9193797872645,
+              "y": -932.7316207632529
+            },
+            {
+              "type": "pad",
+              "ref": "pad_16",
+              "x": 726.9193797872645,
+              "y": -843.7316207632529
+            },
+            {
+              "type": "component_pin",
+              "component": "R32",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$110",
+      "numeric_name": "N$110",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_110_145",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R7",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$111",
+      "numeric_name": "N$111",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_111_146",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R35",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$112",
+      "numeric_name": "N$112",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_112_147",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "U1",
+              "pin": "7",
+              "pin_name": "Output 2",
+              "pin_type": "output"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$113",
+      "numeric_name": "N$113",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_113_148",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "U1",
+              "pin": "6",
+              "pin_name": "Inverting Input 2",
+              "pin_type": "analog"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$114",
+      "numeric_name": "N$114",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_114_149",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "U1",
+              "pin": "5",
+              "pin_name": "Non-inverting Input 2",
+              "pin_type": "analog"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$115",
+      "numeric_name": "N$115",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_115_150",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "U1",
+              "pin": "4",
+              "pin_name": "Vcc+",
+              "pin_type": "power"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$116",
+      "numeric_name": "N$116",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_116_151",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "U1",
+              "pin": "3",
+              "pin_name": "Non-inverting Input 1",
+              "pin_type": "analog"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$117",
+      "numeric_name": "N$117",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_117_152",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "U1",
+              "pin": "2",
+              "pin_name": "Inverting Input 1",
+              "pin_type": "analog"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$118",
+      "numeric_name": "N$118",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_118_153",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R35",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$119",
+      "numeric_name": "N$119",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_119_154",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R2",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$12",
+      "numeric_name": "N$12",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_12_1",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_1",
+              "x": 1998.2804797872645,
+              "y": -855.3150207632531
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$120",
+      "numeric_name": "N$120",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_120_155",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CF1",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$121",
+      "numeric_name": "N$121",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_121_156",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CF2",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$122",
+      "numeric_name": "N$122",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_122_157",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "U1",
+              "pin": "14",
+              "pin_name": "Output 4",
+              "pin_type": "output"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$123",
+      "numeric_name": "N$123",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_123_158",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "U1",
+              "pin": "13",
+              "pin_name": "Inverting Input 4",
+              "pin_type": "analog"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$124",
+      "numeric_name": "N$124",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_124_159",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "U1",
+              "pin": "12",
+              "pin_name": "Non-inverting Input 4",
+              "pin_type": "analog"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$125",
+      "numeric_name": "N$125",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_125_160",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "U1",
+              "pin": "11",
+              "pin_name": "Vcc-",
+              "pin_type": "power"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$126",
+      "numeric_name": "N$126",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_126_161",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "U1",
+              "pin": "10",
+              "pin_name": "Non-inverting Input 3",
+              "pin_type": "analog"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$127",
+      "numeric_name": "N$127",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_127_162",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "U1",
+              "pin": "9",
+              "pin_name": "Inverting Input 3",
+              "pin_type": "analog"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$128",
+      "numeric_name": "N$128",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_128_163",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "U1",
+              "pin": "8",
+              "pin_name": "Output 3",
+              "pin_type": "output"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$129",
+      "numeric_name": "N$129",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_129_164",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CV1",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$13",
+      "numeric_name": "N$13",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_13_2",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_2",
+              "x": 1942.0304797872645,
+              "y": -933.3983207632529
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$130",
+      "numeric_name": "N$130",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_130_165",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CV1",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$131",
+      "numeric_name": "N$131",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_131_166",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R8",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$132",
+      "numeric_name": "N$132",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_132_167",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R9",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$133",
+      "numeric_name": "N$133",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_133_168",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R10",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$134",
+      "numeric_name": "N$134",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_134_169",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R11",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$135",
+      "numeric_name": "N$135",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_135_170",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R12",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$136",
+      "numeric_name": "N$136",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_136_171",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "D6",
+              "pin": "1",
+              "pin_name": "K",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$137",
+      "numeric_name": "N$137",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_137_172",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CB1",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$138",
+      "numeric_name": "N$138",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_138_173",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_173",
+              "x": 807.8953797872646,
+              "y": 904.9323792367471
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$139",
+      "numeric_name": "N$139",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_139_174",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CF4",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$14",
+      "numeric_name": "N$14",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_14_3",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_3",
+              "x": 1876.7526797872647,
+              "y": -849.0650207632531
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$140",
+      "numeric_name": "N$140",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_140_175",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_175",
+              "x": 526.8953797872646,
+              "y": 891.9323792367471
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$141",
+      "numeric_name": "N$141",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_141_176",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CF4",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$142",
+      "numeric_name": "N$142",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_142_177",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R19",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$143",
+      "numeric_name": "N$143",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_143_178",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R18",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$144",
+      "numeric_name": "N$144",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_144_179",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R17",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$145",
+      "numeric_name": "N$145",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_145_180",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R16",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$146",
+      "numeric_name": "N$146",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_146_181",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CF3",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$147",
+      "numeric_name": "N$147",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_147_182",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R14",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$148",
+      "numeric_name": "N$148",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_148_183",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CF2",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$149",
+      "numeric_name": "N$149",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_149_184",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CF3",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$15",
+      "numeric_name": "N$15",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_15_4",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_4",
+              "x": 1821.1970797872646,
+              "y": -935.870620763253
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$150",
+      "numeric_name": "N$150",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_150_185",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R14",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$151",
+      "numeric_name": "N$151",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_151_186",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R16",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$152",
+      "numeric_name": "N$152",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_152_187",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R17",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$153",
+      "numeric_name": "N$153",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_153_188",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R18",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$154",
+      "numeric_name": "N$154",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_154_189",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R15",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$155",
+      "numeric_name": "N$155",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_155_190",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R19",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$156",
+      "numeric_name": "N$156",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_156_191",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R15",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$157",
+      "numeric_name": "N$157",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_157_192",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "L2",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$158",
+      "numeric_name": "N$158",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_158_193",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "D6",
+              "pin": "2",
+              "pin_name": "A",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$159",
+      "numeric_name": "N$159",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_159_194",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_194",
+              "x": 1563.8953797872646,
+              "y": 727.9323792367471
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$16",
+      "numeric_name": "N$16",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_16_5",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_5",
+              "x": 1644.1138797872645,
+              "y": -927.537220763253
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$160",
+      "numeric_name": "N$160",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_160_195",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "L4",
+              "pin": "3",
+              "pin_name": "3",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$161",
+      "numeric_name": "N$161",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_161_196",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R34",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$162",
+      "numeric_name": "N$162",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_162_197",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Q8",
+              "pin": "3",
+              "pin_name": "Drain",
+              "pin_type": "input"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$163",
+      "numeric_name": "N$163",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_163_198",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Q8",
+              "pin": "2",
+              "pin_name": "Gate",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$164",
+      "numeric_name": "N$164",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_164_200",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R20",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$165",
+      "numeric_name": "N$165",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_165_201",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Z2",
+              "pin": "1",
+              "pin_name": "A",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$166",
+      "numeric_name": "N$166",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_166_202",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R20",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$167",
+      "numeric_name": "N$167",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_167_203",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_203",
+              "x": 1849.8953797872646,
+              "y": 456.9323792367471
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$168",
+      "numeric_name": "N$168",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_168_204",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CE9",
+              "pin": "2",
+              "pin_name": "-",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$169",
+      "numeric_name": "N$169",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_169_206",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Q8",
+              "pin": "1",
+              "pin_name": "Source",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$17",
+      "numeric_name": "N$17",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_17_6",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_6",
+              "x": 1581.6138797872645,
+              "y": -932.3983207632529
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$170",
+      "numeric_name": "N$170",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_170_207",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Z2",
+              "pin": "2",
+              "pin_name": "K",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$171",
+      "numeric_name": "N$171",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_171_208",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R34",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$172",
+      "numeric_name": "N$172",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_172_209",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "L4",
+              "pin": "4",
+              "pin_name": "4",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$173",
+      "numeric_name": "N$173",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_173_210",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CB1",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$174",
+      "numeric_name": "N$174",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_174_211",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_211",
+              "x": 1327.8953797872646,
+              "y": 901.9323792367471
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$175",
+      "numeric_name": "N$175",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_175_212",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "L2",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$176",
+      "numeric_name": "N$176",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_176_213",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "L4",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$177",
+      "numeric_name": "N$177",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_177_214",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "L4",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$178",
+      "numeric_name": "N$178",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_178_215",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "D7",
+              "pin": "1",
+              "pin_name": "A",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$179",
+      "numeric_name": "N$179",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_179_216",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "D7",
+              "pin": "2",
+              "pin_name": "K",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$18",
+      "numeric_name": "N$18",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_18_7",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_7",
+              "x": 1530.9193797872647,
+              "y": -932.3983207632529
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$180",
+      "numeric_name": "N$180",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_180_217",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Q5",
+              "pin": "3",
+              "pin_name": "Drain",
+              "pin_type": "input"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$181",
+      "numeric_name": "N$181",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_181_218",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Q5",
+              "pin": "2",
+              "pin_name": "Gate",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$182",
+      "numeric_name": "N$182",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_182_219",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Q5",
+              "pin": "1",
+              "pin_name": "Source",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$183",
+      "numeric_name": "N$183",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_183_220",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "D8",
+              "pin": "1",
+              "pin_name": "K",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$184",
+      "numeric_name": "N$184",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_184_221",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R21",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$185",
+      "numeric_name": "N$185",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_185_222",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R21",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$186",
+      "numeric_name": "N$186",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_186_223",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "D8",
+              "pin": "2",
+              "pin_name": "A",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$187",
+      "numeric_name": "N$187",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_187_224",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_224",
+              "x": 1425.8953797872646,
+              "y": 1548.9323792367472
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$188",
+      "numeric_name": "N$188",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_188_225",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_225",
+              "x": 735.1145797872646,
+              "y": 1547.1019792367472
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$189",
+      "numeric_name": "N$189",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_189_229",
+          "connections": [
+            {
+              "type": "via",
+              "ref": "via_229",
+              "x": 1521.9468797872646,
+              "y": 362.11077923674713
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$19",
+      "numeric_name": "N$19",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_19_8",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_8",
+              "x": 1471.1971797872645,
+              "y": -932.3983207632529
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$190",
+      "numeric_name": "N$190",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_190_230",
+          "connections": [
+            {
+              "type": "via",
+              "ref": "via_230",
+              "x": 1753.9468797872646,
+              "y": 360.11077923674713
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$191",
+      "numeric_name": "N$191",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_191_232",
+          "connections": [
+            {
+              "type": "via",
+              "ref": "via_232",
+              "x": 1744.9468797872646,
+              "y": 477.11077923674713
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$192",
+      "numeric_name": "N$192",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_192_234",
+          "connections": [
+            {
+              "type": "via",
+              "ref": "via_234",
+              "x": 123.70687978726451,
+              "y": 347.11077923674713
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$193",
+      "numeric_name": "N$193",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_193_237",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CE6",
+              "pin": "2",
+              "pin_name": "+",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$194",
+      "numeric_name": "N$194",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_194_238",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "K2",
+              "pin": "7",
+              "pin_name": "7",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$195",
+      "numeric_name": "N$195",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_195_242",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R28",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$196",
+      "numeric_name": "N$196",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_196_243",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_243",
+              "x": 1574.1557797872647,
+              "y": 72.9273792367471
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$197",
+      "numeric_name": "N$197",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_197_247",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CE1",
+              "pin": "2",
+              "pin_name": "+",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$198",
+      "numeric_name": "N$198",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_198_248",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CE1",
+              "pin": "1",
+              "pin_name": "-",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$199",
+      "numeric_name": "N$199",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_199_250",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "U1",
+              "pin": "1",
+              "pin_name": "Output 1",
+              "pin_type": "output"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$2",
+      "numeric_name": "N$2",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_2_39",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R33",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            },
+            {
+              "type": "component_pin",
+              "component": "CF7",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$20",
+      "numeric_name": "N$20",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_20_9",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_9",
+              "x": 1413.8915797872646,
+              "y": -933.787220763253
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$200",
+      "numeric_name": "N$200",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_200_267",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_267",
+              "x": 1570.4653797872645,
+              "y": -156.2844207632528
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$201",
+      "numeric_name": "N$201",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_201_268",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J1",
+              "pin": "1",
+              "pin_name": "Gas Valve (green)",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$202",
+      "numeric_name": "N$202",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_202_269",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J1",
+              "pin": "2",
+              "pin_name": "Gas Valve (red)",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$203",
+      "numeric_name": "N$203",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_203_270",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J1",
+              "pin": "3",
+              "pin_name": "Upper TEMP Sensor",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$204",
+      "numeric_name": "N$204",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_204_271",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J1",
+              "pin": "4",
+              "pin_name": "Ionisation Diode +",
+              "pin_type": "bidirectional"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$205",
+      "numeric_name": "N$205",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_205_272",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J1",
+              "pin": "5",
+              "pin_name": "Lower TEMP Sensor (orange)",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$206",
+      "numeric_name": "N$206",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_206_273",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J1",
+              "pin": "6",
+              "pin_name": "unused",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$207",
+      "numeric_name": "N$207",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_207_274",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J1",
+              "pin": "7",
+              "pin_name": "Ionisation Diode -",
+              "pin_type": "bidirectional"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$208",
+      "numeric_name": "N$208",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_208_275",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J1",
+              "pin": "8",
+              "pin_name": "?",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$209",
+      "numeric_name": "N$209",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_209_276",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J1",
+              "pin": "9",
+              "pin_name": "GND Lower TEMP Sensor (orange)",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$210",
+      "numeric_name": "N$210",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_210_277",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J1",
+              "pin": "10",
+              "pin_name": "GND",
+              "pin_type": "power"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$211",
+      "numeric_name": "N$211",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_211_278",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J1",
+              "pin": "11",
+              "pin_name": "11",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$212",
+      "numeric_name": "N$212",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_212_279",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J1",
+              "pin": "12",
+              "pin_name": "Plus +12",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$213",
+      "numeric_name": "N$213",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_213_280",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J2",
+              "pin": "1",
+              "pin_name": "+ 12V",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$214",
+      "numeric_name": "N$214",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_214_281",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J2",
+              "pin": "2",
+              "pin_name": "ON/OFF +12V",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$215",
+      "numeric_name": "N$215",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_215_282",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J2",
+              "pin": "3",
+              "pin_name": "Potti V OUT (Temp wish)",
+              "pin_type": "output"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$216",
+      "numeric_name": "N$216",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_216_283",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J2",
+              "pin": "4",
+              "pin_name": "RED LED",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$217",
+      "numeric_name": "N$217",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_217_284",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J2",
+              "pin": "5",
+              "pin_name": "GND",
+              "pin_type": "power"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$218",
+      "numeric_name": "N$218",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_218_285",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J2",
+              "pin": "6",
+              "pin_name": "unused",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$219",
+      "numeric_name": "N$219",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_219_286",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J3",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$22",
+      "numeric_name": "N$22",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_22_13",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "D4",
+              "pin": "1",
+              "pin_name": "K",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$220",
+      "numeric_name": "N$220",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_220_287",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J3",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$221",
+      "numeric_name": "N$221",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_221_288",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J3",
+              "pin": "4",
+              "pin_name": "Gas Valve (GREEN)",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$222",
+      "numeric_name": "N$222",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_222_289",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "J3",
+              "pin": "3",
+              "pin_name": "LM324N OUT 1 (gas valve open)",
+              "pin_type": "output"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$23",
+      "numeric_name": "N$23",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_23_18",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_18",
+              "x": 606.9193797872645,
+              "y": -842.7316207632529
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$24",
+      "numeric_name": "N$24",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_24_21",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_21",
+              "x": 441.9193797872645,
+              "y": -927.7316207632529
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$25",
+      "numeric_name": "N$25",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_25_22",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_22",
+              "x": 381.9193797872646,
+              "y": -843.7316207632529
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$26",
+      "numeric_name": "N$26",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_26_23",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_23",
+              "x": 320.9193797872646,
+              "y": -929.7316207632529
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$27",
+      "numeric_name": "N$27",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_27_33",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R27",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$28",
+      "numeric_name": "N$28",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_28_34",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R27",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$29",
+      "numeric_name": "N$29",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_29_48",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R31",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$3",
+      "numeric_name": "N$3",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_3_27",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CF8",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            },
+            {
+              "type": "component_pin",
+              "component": "D1",
+              "pin": "2",
+              "pin_name": "A",
+              "pin_type": "passive"
+            },
+            {
+              "type": "component_pin",
+              "component": "D2",
+              "pin": "2",
+              "pin_name": "A",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$30",
+      "numeric_name": "N$30",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_30_53",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "D4",
+              "pin": "2",
+              "pin_name": "A",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$31",
+      "numeric_name": "N$31",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_31_56",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "F1",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$32",
+      "numeric_name": "N$32",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_32_57",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_57",
+              "x": 1118.9193797872645,
+              "y": -377.73162076325286
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$33",
+      "numeric_name": "N$33",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_33_58",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "D5",
+              "pin": "2",
+              "pin_name": "A",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$34",
+      "numeric_name": "N$34",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_34_59",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "L1",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$35",
+      "numeric_name": "N$35",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_35_61",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CF5",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$36",
+      "numeric_name": "N$36",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_36_63",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CF6",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$37",
+      "numeric_name": "N$37",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_37_64",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R26",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$38",
+      "numeric_name": "N$38",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_38_65",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "L1",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$39",
+      "numeric_name": "N$39",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_39_66",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R26",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$4",
+      "numeric_name": "N$4",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_4_25",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_25",
+              "x": 265.9193797872646,
+              "y": -842.7316207632529
+            },
+            {
+              "type": "component_pin",
+              "component": "D1",
+              "pin": "1",
+              "pin_name": "K",
+              "pin_type": "passive"
+            },
+            {
+              "type": "component_pin",
+              "component": "R33",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$40",
+      "numeric_name": "N$40",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_40_67",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R25",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$41",
+      "numeric_name": "N$41",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_41_68",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CF6",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$42",
+      "numeric_name": "N$42",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_42_69",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Z1",
+              "pin": "2",
+              "pin_name": "K",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$43",
+      "numeric_name": "N$43",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_43_70",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Q7",
+              "pin": "2",
+              "pin_name": "Gate",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$44",
+      "numeric_name": "N$44",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_44_71",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Q7",
+              "pin": "1",
+              "pin_name": "Source",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$45",
+      "numeric_name": "N$45",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_45_72",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_72",
+              "x": 1914.9193797872647,
+              "y": -543.7316207632529
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$46",
+      "numeric_name": "N$46",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_46_73",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_73",
+              "x": 1978.9193797872647,
+              "y": -551.7316207632529
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$47",
+      "numeric_name": "N$47",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_47_74",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Z1",
+              "pin": "1",
+              "pin_name": "A",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$48",
+      "numeric_name": "N$48",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_48_75",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CE3",
+              "pin": "1",
+              "pin_name": "-",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$49",
+      "numeric_name": "N$49",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_49_76",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CE3",
+              "pin": "2",
+              "pin_name": "+",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$5",
+      "numeric_name": "N$5",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_5_43",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "D3",
+              "pin": "2",
+              "pin_name": "A",
+              "pin_type": "passive"
+            },
+            {
+              "type": "component_pin",
+              "component": "Z4",
+              "pin": "1",
+              "pin_name": "A",
+              "pin_type": "passive"
+            },
+            {
+              "type": "component_pin",
+              "component": "K2",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            },
+            {
+              "type": "component_pin",
+              "component": "Q4",
+              "pin": "3",
+              "pin_name": "Drain",
+              "pin_type": "input"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$50",
+      "numeric_name": "N$50",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_50_77",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CE2",
+              "pin": "1",
+              "pin_name": "+",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$51",
+      "numeric_name": "N$51",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_51_78",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Q7",
+              "pin": "3",
+              "pin_name": "Drain",
+              "pin_type": "input"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$52",
+      "numeric_name": "N$52",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_52_79",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CE2",
+              "pin": "2",
+              "pin_name": "-",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$53",
+      "numeric_name": "N$53",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_53_80",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R25",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$54",
+      "numeric_name": "N$54",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_54_81",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R30",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$55",
+      "numeric_name": "N$55",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_55_82",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CF5",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$56",
+      "numeric_name": "N$56",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_56_83",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "K1",
+              "pin": "7",
+              "pin_name": "7",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$57",
+      "numeric_name": "N$57",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_57_84",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "K1",
+              "pin": "8",
+              "pin_name": "8",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$58",
+      "numeric_name": "N$58",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_58_85",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "K1",
+              "pin": "6",
+              "pin_name": "6",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$59",
+      "numeric_name": "N$59",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_59_86",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "K1",
+              "pin": "5",
+              "pin_name": "5",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$6",
+      "numeric_name": "N$6",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_6_112",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "K2",
+              "pin": "8",
+              "pin_name": "8",
+              "pin_type": "passive"
+            },
+            {
+              "type": "via",
+              "ref": "via_231",
+              "x": 1506.9468797872646,
+              "y": 474.11077923674713
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$60",
+      "numeric_name": "N$60",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_60_87",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "K1",
+              "pin": "3",
+              "pin_name": "3",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$61",
+      "numeric_name": "N$61",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_61_88",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "K1",
+              "pin": "4",
+              "pin_name": "4",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$62",
+      "numeric_name": "N$62",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_62_89",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R30",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$63",
+      "numeric_name": "N$63",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_63_90",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "K1",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$64",
+      "numeric_name": "N$64",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_64_91",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "K1",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$65",
+      "numeric_name": "N$65",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_65_92",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "F2",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$66",
+      "numeric_name": "N$66",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_66_93",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "F2",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$67",
+      "numeric_name": "N$67",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_67_94",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_94",
+              "x": 1546.9193797872647,
+              "y": 268.26837923674714
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$68",
+      "numeric_name": "N$68",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_68_97",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CE7",
+              "pin": "2",
+              "pin_name": "-",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$69",
+      "numeric_name": "N$69",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_69_98",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CE7",
+              "pin": "1",
+              "pin_name": "+",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$7",
+      "numeric_name": "N$7",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_7_55",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "D5",
+              "pin": "1",
+              "pin_name": "K",
+              "pin_type": "passive"
+            },
+            {
+              "type": "component_pin",
+              "component": "K2",
+              "pin": "5",
+              "pin_name": "5",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$70",
+      "numeric_name": "N$70",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_70_99",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CE4",
+              "pin": "2",
+              "pin_name": "-",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$71",
+      "numeric_name": "N$71",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_71_100",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CE4",
+              "pin": "1",
+              "pin_name": "+",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$72",
+      "numeric_name": "N$72",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_72_101",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CE5",
+              "pin": "2",
+              "pin_name": "+",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$73",
+      "numeric_name": "N$73",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_73_103",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R13",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$74",
+      "numeric_name": "N$74",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_74_104",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R11",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$75",
+      "numeric_name": "N$75",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_75_105",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R12",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$76",
+      "numeric_name": "N$76",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_76_106",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R10",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$77",
+      "numeric_name": "N$77",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_77_107",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R9",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$78",
+      "numeric_name": "N$78",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_78_108",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R8",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$79",
+      "numeric_name": "N$79",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_79_109",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R13",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$8",
+      "numeric_name": "N$8",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_8_41",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CF7",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            },
+            {
+              "type": "component_pin",
+              "component": "K2",
+              "pin": "3",
+              "pin_name": "3",
+              "pin_type": "passive"
+            },
+            {
+              "type": "component_pin",
+              "component": "CE5",
+              "pin": "1",
+              "pin_name": "-",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$80",
+      "numeric_name": "N$80",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_80_110",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CE8",
+              "pin": "1",
+              "pin_name": "-",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$81",
+      "numeric_name": "N$81",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_81_111",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "CE8",
+              "pin": "2",
+              "pin_name": "+",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$82",
+      "numeric_name": "N$82",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_82_114",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "K2",
+              "pin": "4",
+              "pin_name": "4",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$83",
+      "numeric_name": "N$83",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_83_115",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "K2",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$84",
+      "numeric_name": "N$84",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_84_116",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Z4",
+              "pin": "2",
+              "pin_name": "K",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$85",
+      "numeric_name": "N$85",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_85_117",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Q4",
+              "pin": "1",
+              "pin_name": "Source",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$86",
+      "numeric_name": "N$86",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_86_119",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Q4",
+              "pin": "2",
+              "pin_name": "Gate",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$87",
+      "numeric_name": "N$87",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_87_120",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Q6",
+              "pin": "3",
+              "pin_name": "Drain",
+              "pin_type": "input"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$88",
+      "numeric_name": "N$88",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_88_121",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Q6",
+              "pin": "1",
+              "pin_name": "Source",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$89",
+      "numeric_name": "N$89",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_89_122",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Q6",
+              "pin": "2",
+              "pin_name": "Gate",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$9",
+      "numeric_name": "N$9",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_9_46",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R31",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            },
+            {
+              "type": "component_pin",
+              "component": "K2",
+              "pin": "6",
+              "pin_name": "6",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$90",
+      "numeric_name": "N$90",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_90_123",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Z3",
+              "pin": "2",
+              "pin_name": "A",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$91",
+      "numeric_name": "N$91",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_91_124",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R24",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$92",
+      "numeric_name": "N$92",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_92_125",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R22",
+              "pin": "2",
+              "pin_name": "2",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$93",
+      "numeric_name": "N$93",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_93_126",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R7",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$94",
+      "numeric_name": "N$94",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_94_127",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R6",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$95",
+      "numeric_name": "N$95",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_95_128",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R5",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$96",
+      "numeric_name": "N$96",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_96_129",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R4",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$97",
+      "numeric_name": "N$97",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_97_130",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R3",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$98",
+      "numeric_name": "N$98",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_98_131",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "R22",
+              "pin": "1",
+              "pin_name": "1",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$99",
+      "numeric_name": "N$99",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_99_132",
+          "connections": [
+            {
+              "type": "component_pin",
+              "component": "Z3",
+              "pin": "1",
+              "pin_name": "K",
+              "pin_type": "passive"
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    }
+  ],
+  "test_points": []
+}

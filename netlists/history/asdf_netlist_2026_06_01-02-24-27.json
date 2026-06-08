@@ -1,0 +1,6446 @@
+{
+  "design_info": {
+    "name": "asdf",
+    "version": "1.0",
+    "date": "2026-06-01"
+  },
+  "components": [
+    {
+      "designator": "CE1",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CE2",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CE3",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CE4",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CE5",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CE6",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CE7",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CE8",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CE9",
+      "package": "",
+      "tolerance": "+/-20%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CF1",
+      "package": "",
+      "tolerance": "+/-10%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CF2",
+      "package": "",
+      "tolerance": "+/-10%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CF3",
+      "package": "",
+      "tolerance": "+/-10%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CF4",
+      "package": "",
+      "tolerance": "+/-10%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CF5",
+      "package": "",
+      "tolerance": "+/-10%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CF6",
+      "package": "",
+      "tolerance": "+/-10%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CF7",
+      "package": "",
+      "tolerance": "+/-10%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CF8",
+      "package": "",
+      "tolerance": "+/-10%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "CV1",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "D1",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "D2",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "D3",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "D4",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "D5",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "D6",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "D7",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "D8",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "F1",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "F2",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "K1",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "K2",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "Q1",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "Collector",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "Base",
+          "type": "passive"
+        },
+        {
+          "number": "3",
+          "name": "Emitter",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "Q2",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "Collector",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "Base",
+          "type": "passive"
+        },
+        {
+          "number": "3",
+          "name": "Emitter",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "Q3",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "Collector",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "Base",
+          "type": "passive"
+        },
+        {
+          "number": "3",
+          "name": "Emitter",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R1",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R2",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R3",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R4",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R5",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R6",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R7",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R8",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R9",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R10",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R11",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R12",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R13",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R14",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R15",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R16",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R17",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R18",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R19",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R20",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R21",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R22",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R23",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R24",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R25",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R26",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R27",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R28",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R29",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R30",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R31",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R32",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R33",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "R34",
+      "package": "",
+      "tolerance": "+/-5%",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "U1",
+      "package": "",
+      "pins": []
+    },
+    {
+      "designator": "Z1",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "Z2",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "Z3",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "designator": "Z4",
+      "package": "",
+      "pins": [
+        {
+          "number": "1",
+          "name": "1",
+          "type": "passive"
+        },
+        {
+          "number": "2",
+          "name": "2",
+          "type": "passive"
+        }
+      ]
+    }
+  ],
+  "nets": [
+    {
+      "name": "GND",
+      "numeric_name": "GND",
+      "logical_name": null,
+      "type": "power_ground",
+      "nodes": [
+        {
+          "id": "node_gnd_233",
+          "connections": [
+            {
+              "type": "via",
+              "ref": "via_233",
+              "x": -2468.270969751885,
+              "y": 1841.8009497349922
+            }
+          ],
+          "expected_voltage": {
+            "min": -0.1,
+            "max": 0.1,
+            "nominal": 0
+          },
+          "signal_type": "ground",
+          "criticality": "high"
+        }
+      ]
+    },
+    {
+      "name": "+5VDC",
+      "numeric_name": "+5VDC",
+      "logical_name": null,
+      "type": "power",
+      "nodes": [
+        {
+          "id": "node_5vdc_14",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_14",
+              "x": -1761.0585261963288,
+              "y": 876.95847889055
+            },
+            {
+              "type": "pad",
+              "ref": "pad_11",
+              "x": -1479.0585261963306,
+              "y": 873.95847889055
+            },
+            {
+              "type": "pad",
+              "ref": "pad_12",
+              "x": -1485.0585261963301,
+              "y": 973.9584788905482
+            }
+          ],
+          "expected_voltage": {
+            "min": 4.75,
+            "max": 5.25,
+            "nominal": 5
+          },
+          "signal_type": "power",
+          "criticality": "high"
+        }
+      ]
+    },
+    {
+      "name": "N$1",
+      "numeric_name": "N$1",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_1_24",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_24",
+              "x": -2398.058526196333,
+              "y": 785.958478890546
+            },
+            {
+              "type": "pad",
+              "ref": "pad_26",
+              "x": -2455.05852619633,
+              "y": 933.9584788905491
+            },
+            {
+              "type": "pad",
+              "ref": "pad_42",
+              "x": -2328.0585261963315,
+              "y": 1114.9584788905486
+            },
+            {
+              "type": "pad",
+              "ref": "pad_40",
+              "x": -2271.058526196331,
+              "y": 1245.958478890549
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$10",
+      "numeric_name": "N$10",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_10_32",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_32",
+              "x": -2194.0585261963297,
+              "y": 997.9584788905491
+            },
+            {
+              "type": "pad",
+              "ref": "pad_37",
+              "x": -1996.0585261963288,
+              "y": 1187.95847889055
+            },
+            {
+              "type": "pad",
+              "ref": "pad_51",
+              "x": -1901.058526196327,
+              "y": 1447.9584788905504
+            },
+            {
+              "type": "pad",
+              "ref": "pad_54",
+              "x": -1760.0585261963288,
+              "y": 1448.9584788905504
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$100",
+      "numeric_name": "N$100",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_100_132",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_132",
+              "x": -2201.0825261963287,
+              "y": 1753.6224788905474
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$101",
+      "numeric_name": "N$101",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_101_133",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_133",
+              "x": -2262.0825261963305,
+              "y": 1731.6224788905483
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$102",
+      "numeric_name": "N$102",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_102_134",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_134",
+              "x": -2363.0825261963314,
+              "y": 1807.6224788905474
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$103",
+      "numeric_name": "N$103",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_103_135",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_135",
+              "x": -2502.082526196331,
+              "y": 1730.6224788905483
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$104",
+      "numeric_name": "N$104",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_104_138",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_138",
+              "x": -2394.0825261963323,
+              "y": 2071.622478890545
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$105",
+      "numeric_name": "N$105",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_105_139",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_139",
+              "x": -2369.0825261963314,
+              "y": 2038.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$106",
+      "numeric_name": "N$106",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_106_140",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_140",
+              "x": -2295.082526196331,
+              "y": 1970.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$107",
+      "numeric_name": "N$107",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_107_141",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_141",
+              "x": -2230.082526196329,
+              "y": 2103.622478890546
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$108",
+      "numeric_name": "N$108",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_108_142",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_142",
+              "x": -2175.08252619633,
+              "y": 2104.622478890546
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$109",
+      "numeric_name": "N$109",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_109_143",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_143",
+              "x": -2131.0825261963305,
+              "y": 2104.622478890546
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$11",
+      "numeric_name": "N$11",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_11_19",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_19",
+              "x": -2049.058526196328,
+              "y": 785.958478890546
+            },
+            {
+              "type": "pad",
+              "ref": "pad_17",
+              "x": -1932.058526196327,
+              "y": 789.9584788905455
+            },
+            {
+              "type": "pad",
+              "ref": "pad_15",
+              "x": -1818.058526196327,
+              "y": 793.9584788905464
+            },
+            {
+              "type": "pad",
+              "ref": "pad_16",
+              "x": -1873.058526196326,
+              "y": 876.95847889055
+            },
+            {
+              "type": "pad",
+              "ref": "pad_35",
+              "x": -1957.0585261963279,
+              "y": 996.9584788905491
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$110",
+      "numeric_name": "N$110",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_110_144",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_144",
+              "x": -2065.082526196329,
+              "y": 2103.622478890546
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$111",
+      "numeric_name": "N$111",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_111_145",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_145",
+              "x": -2000.0825261963291,
+              "y": 2104.622478890546
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$112",
+      "numeric_name": "N$112",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_112_146",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_146",
+              "x": -1999.0825261963291,
+              "y": 2183.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$113",
+      "numeric_name": "N$113",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_113_147",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_147",
+              "x": -2021.0825261963282,
+              "y": 2238.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$114",
+      "numeric_name": "N$114",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_114_148",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_148",
+              "x": -2092.082526196329,
+              "y": 2238.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$115",
+      "numeric_name": "N$115",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_115_149",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_149",
+              "x": -2143.0825261963305,
+              "y": 2241.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$116",
+      "numeric_name": "N$116",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_116_150",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_150",
+              "x": -2198.0825261963287,
+              "y": 2242.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$117",
+      "numeric_name": "N$117",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_117_151",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_151",
+              "x": -2254.0825261963296,
+              "y": 2243.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$118",
+      "numeric_name": "N$118",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_118_152",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_152",
+              "x": -2309.082526196332,
+              "y": 2245.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$119",
+      "numeric_name": "N$119",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_119_153",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_153",
+              "x": -2227.082526196329,
+              "y": 2189.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$12",
+      "numeric_name": "N$12",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_12_1",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_1",
+              "x": -601.6973706407723,
+              "y": 865.3751233349946
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$120",
+      "numeric_name": "N$120",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_120_154",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_154",
+              "x": -2284.0825261963305,
+              "y": 2195.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$121",
+      "numeric_name": "N$121",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_121_155",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_155",
+              "x": -2394.0825261963323,
+              "y": 2193.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$122",
+      "numeric_name": "N$122",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_122_156",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_156",
+              "x": -2485.08252619633,
+              "y": 2364.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$123",
+      "numeric_name": "N$123",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_123_157",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_157",
+              "x": -2365.0825261963314,
+              "y": 2413.622478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$124",
+      "numeric_name": "N$124",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_124_158",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_158",
+              "x": -2311.082526196332,
+              "y": 2415.622478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$125",
+      "numeric_name": "N$125",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_125_159",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_159",
+              "x": -2247.0825261963296,
+              "y": 2414.622478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$126",
+      "numeric_name": "N$126",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_126_160",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_160",
+              "x": -2199.0825261963287,
+              "y": 2414.622478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$127",
+      "numeric_name": "N$127",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_127_161",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_161",
+              "x": -2140.0825261963305,
+              "y": 2414.622478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$128",
+      "numeric_name": "N$128",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_128_162",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_162",
+              "x": -2077.082526196329,
+              "y": 2413.622478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$129",
+      "numeric_name": "N$129",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_129_163",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_163",
+              "x": -2025.0825261963282,
+              "y": 2413.622478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$13",
+      "numeric_name": "N$13",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_13_2",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_2",
+              "x": -657.9473706407724,
+              "y": 788.2918233349907
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$130",
+      "numeric_name": "N$130",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_130_164",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_164",
+              "x": -1932.0825261963273,
+              "y": 2377.622478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$131",
+      "numeric_name": "N$131",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_131_165",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_165",
+              "x": -1932.0825261963273,
+              "y": 2253.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$132",
+      "numeric_name": "N$132",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_132_166",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_166",
+              "x": -1918.0825261963273,
+              "y": 2218.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$133",
+      "numeric_name": "N$133",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_133_167",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_167",
+              "x": -1852.0825261963264,
+              "y": 2216.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$134",
+      "numeric_name": "N$134",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_134_168",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_168",
+              "x": -1801.0825261963273,
+              "y": 2281.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$135",
+      "numeric_name": "N$135",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_135_169",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_169",
+              "x": -1742.0825261963287,
+              "y": 2278.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$136",
+      "numeric_name": "N$136",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_136_170",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_170",
+              "x": -1676.0825261963287,
+              "y": 2276.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$137",
+      "numeric_name": "N$137",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_137_171",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_171",
+              "x": -1567.08252619633,
+              "y": 2440.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$138",
+      "numeric_name": "N$138",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_138_172",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_172",
+              "x": -1697.0825261963296,
+              "y": 2593.622478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$139",
+      "numeric_name": "N$139",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_139_173",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_173",
+              "x": -1792.0825261963273,
+              "y": 2625.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$14",
+      "numeric_name": "N$14",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_14_3",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_3",
+              "x": -723.2251706407725,
+              "y": 871.6251233349946
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$140",
+      "numeric_name": "N$140",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_140_174",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_174",
+              "x": -2080.082526196328,
+              "y": 2669.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$141",
+      "numeric_name": "N$141",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_141_175",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_175",
+              "x": -2073.082526196329,
+              "y": 2612.622478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$142",
+      "numeric_name": "N$142",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_142_176",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_176",
+              "x": -2082.082526196328,
+              "y": 2551.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$143",
+      "numeric_name": "N$143",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_143_177",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_177",
+              "x": -2131.0825261963305,
+              "y": 2586.622478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$144",
+      "numeric_name": "N$144",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_144_178",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_178",
+              "x": -2190.08252619633,
+              "y": 2474.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$145",
+      "numeric_name": "N$145",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_145_179",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_179",
+              "x": -2249.0825261963296,
+              "y": 2479.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$146",
+      "numeric_name": "N$146",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_146_180",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_180",
+              "x": -2312.082526196332,
+              "y": 2478.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$147",
+      "numeric_name": "N$147",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_147_181",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_181",
+              "x": -2359.0825261963314,
+              "y": 2532.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$148",
+      "numeric_name": "N$148",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_148_182",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_182",
+              "x": -2422.0825261963314,
+              "y": 2482.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$149",
+      "numeric_name": "N$149",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_149_183",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_183",
+              "x": -2490.08252619633,
+              "y": 2482.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$15",
+      "numeric_name": "N$15",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_15_4",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_4",
+              "x": -778.7807706407729,
+              "y": 784.8195233349899
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$150",
+      "numeric_name": "N$150",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_150_184",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_184",
+              "x": -2350.0825261963314,
+              "y": 2646.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$151",
+      "numeric_name": "N$151",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_151_185",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_185",
+              "x": -2419.0825261963314,
+              "y": 2699.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$152",
+      "numeric_name": "N$152",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_152_186",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_186",
+              "x": -2319.082526196332,
+              "y": 2703.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$153",
+      "numeric_name": "N$153",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_153_187",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_187",
+              "x": -2244.0825261963296,
+              "y": 2706.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$154",
+      "numeric_name": "N$154",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_154_188",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_188",
+              "x": -2190.08252619633,
+              "y": 2702.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$155",
+      "numeric_name": "N$155",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_155_189",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_189",
+              "x": -2299.082526196331,
+              "y": 2788.6224788905465
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$156",
+      "numeric_name": "N$156",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_156_190",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_190",
+              "x": -2135.0825261963305,
+              "y": 2817.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$157",
+      "numeric_name": "N$157",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_157_191",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_191",
+              "x": -2533.082526196332,
+              "y": 2792.6224788905465
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$158",
+      "numeric_name": "N$158",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_158_192",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_192",
+              "x": -1872.0825261963264,
+              "y": 2827.6224788905465
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$159",
+      "numeric_name": "N$159",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_159_193",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_193",
+              "x": -1342.0825261963305,
+              "y": 2444.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$16",
+      "numeric_name": "N$16",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_16_5",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_5",
+              "x": -955.8640261963296,
+              "y": 793.1528788905463
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$160",
+      "numeric_name": "N$160",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_160_194",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_194",
+              "x": -1036.0825261963294,
+              "y": 2453.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$161",
+      "numeric_name": "N$161",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_161_195",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_195",
+              "x": -972.08252619633,
+              "y": 2446.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$162",
+      "numeric_name": "N$162",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_162_196",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_196",
+              "x": -932.0825261963307,
+              "y": 2412.622478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$163",
+      "numeric_name": "N$163",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_163_197",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_197",
+              "x": -885.0825261963302,
+              "y": 2361.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$164",
+      "numeric_name": "N$164",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_164_198",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_198",
+              "x": -827.0825261963286,
+              "y": 2296.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$165",
+      "numeric_name": "N$165",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_165_200",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_200",
+              "x": -731.0825261963276,
+              "y": 2082.622478890545
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$166",
+      "numeric_name": "N$166",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_166_201",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_201",
+              "x": -622.0825261963281,
+              "y": 2145.622478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$167",
+      "numeric_name": "N$167",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_167_202",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_202",
+              "x": -492.0825261963286,
+              "y": 2083.622478890545
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$168",
+      "numeric_name": "N$168",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_168_203",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_203",
+              "x": -750.0825261963276,
+              "y": 2177.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$169",
+      "numeric_name": "N$169",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_169_204",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_204",
+              "x": -754.0825261963276,
+              "y": 2233.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$17",
+      "numeric_name": "N$17",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_17_6",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_6",
+              "x": -1018.3640261963296,
+              "y": 788.2917788905457
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$170",
+      "numeric_name": "N$170",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_170_206",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_206",
+              "x": -873.0825261963297,
+              "y": 2234.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$171",
+      "numeric_name": "N$171",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_171_207",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_207",
+              "x": -616.0825261963276,
+              "y": 2362.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$172",
+      "numeric_name": "N$172",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_172_208",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_208",
+              "x": -701.0825261963281,
+              "y": 2403.622478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$173",
+      "numeric_name": "N$173",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_173_209",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_209",
+              "x": -1093.0825261963296,
+              "y": 2555.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$174",
+      "numeric_name": "N$174",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_174_210",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_210",
+              "x": -1176.0825261963291,
+              "y": 2599.622478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$175",
+      "numeric_name": "N$175",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_175_211",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_211",
+              "x": -1272.0825261963296,
+              "y": 2622.6224788905447
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$176",
+      "numeric_name": "N$176",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_176_212",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_212",
+              "x": -1190.0825261963291,
+              "y": 2813.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$177",
+      "numeric_name": "N$177",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_177_213",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_213",
+              "x": -810.0825261963286,
+              "y": 2831.6224788905465
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$178",
+      "numeric_name": "N$178",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_178_214",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_214",
+              "x": -699.0825261963281,
+              "y": 2728.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$179",
+      "numeric_name": "N$179",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_179_215",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_215",
+              "x": -575.0825261963287,
+              "y": 3029.6224788905483
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$18",
+      "numeric_name": "N$18",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_18_7",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_7",
+              "x": -1069.0585261963288,
+              "y": 788.2917788905457
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$180",
+      "numeric_name": "N$180",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_180_216",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_216",
+              "x": -804.0825261963286,
+              "y": 3027.6224788905483
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$181",
+      "numeric_name": "N$181",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_181_217",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_217",
+              "x": -899.0825261963304,
+              "y": 3028.6224788905483
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$182",
+      "numeric_name": "N$182",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_182_218",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_218",
+              "x": -965.0825261963305,
+              "y": 3026.6224788905483
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$183",
+      "numeric_name": "N$183",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_183_219",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_219",
+              "x": -1019.0825261963296,
+              "y": 3030.6224788905483
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$184",
+      "numeric_name": "N$184",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_184_220",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_220",
+              "x": -1013.08252619633,
+              "y": 3122.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$185",
+      "numeric_name": "N$185",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_185_221",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_221",
+              "x": -1025.0825261963294,
+              "y": 3220.6224788905465
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$186",
+      "numeric_name": "N$186",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_186_222",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_222",
+              "x": -788.0825261963281,
+              "y": 3226.6224788905465
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$187",
+      "numeric_name": "N$187",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_187_223",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_223",
+              "x": -730.0825261963276,
+              "y": 3131.6224788905456
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$188",
+      "numeric_name": "N$188",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_188_224",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_224",
+              "x": -1174.0825261963291,
+              "y": 3269.6224788905474
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$189",
+      "numeric_name": "N$189",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_189_225",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_225",
+              "x": -1864.863326196326,
+              "y": 3267.7920788905476
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$19",
+      "numeric_name": "N$19",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_19_8",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_8",
+              "x": -1128.7807261963294,
+              "y": 788.2917788905457
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$190",
+      "numeric_name": "N$190",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_190_229",
+          "connections": [
+            {
+              "type": "via",
+              "ref": "via_229",
+              "x": -1078.0309697518846,
+              "y": 2082.800949734991
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$191",
+      "numeric_name": "N$191",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_191_230",
+          "connections": [
+            {
+              "type": "via",
+              "ref": "via_230",
+              "x": -846.0309697518841,
+              "y": 2080.800949734991
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$192",
+      "numeric_name": "N$192",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_192_232",
+          "connections": [
+            {
+              "type": "via",
+              "ref": "via_232",
+              "x": -856.0309697518845,
+              "y": 2194.8009497349904
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$193",
+      "numeric_name": "N$193",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_193_234",
+          "connections": [
+            {
+              "type": "via",
+              "ref": "via_234",
+              "x": -2476.270969751885,
+              "y": 2067.8009497349904
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$194",
+      "numeric_name": "N$194",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_194_235",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_235",
+              "x": -1023.2948697518848,
+              "y": 1237.6674497349927
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$195",
+      "numeric_name": "N$195",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_195_237",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_237",
+              "x": -1872.4127697518816,
+              "y": 1188.9336497349946
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$196",
+      "numeric_name": "N$196",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_196_238",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_238",
+              "x": -2001.0755697518834,
+              "y": 1379.2033386238827
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$197",
+      "numeric_name": "N$197",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_197_241",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_241",
+              "x": -1172.9341524679335,
+              "y": 1398.173999117711
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$198",
+      "numeric_name": "N$198",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_198_242",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_242",
+              "x": -1756.2674524679333,
+              "y": 1216.507299117709
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$199",
+      "numeric_name": "N$199",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_199_243",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_243",
+              "x": -1025.8220524679339,
+              "y": 1793.6174991177086
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$2",
+      "numeric_name": "N$2",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_2_39",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_39",
+              "x": -2259.05852619633,
+              "y": 1183.9584788905495
+            },
+            {
+              "type": "pad",
+              "ref": "pad_38",
+              "x": -2161.0585261963306,
+              "y": 1109.9584788905486
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$20",
+      "numeric_name": "N$20",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_20_9",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_9",
+              "x": -1178.0863261963286,
+              "y": 786.9028788905463
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$200",
+      "numeric_name": "N$200",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_200_247",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_247",
+              "x": -1148.3225420091221,
+              "y": 1227.326622395282
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$201",
+      "numeric_name": "N$201",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_201_248",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_248",
+              "x": -1027.0677420091222,
+              "y": 1229.9065223952816
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$21",
+      "numeric_name": "N$21",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_21_10",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_10",
+              "x": -1249.6140261963292,
+              "y": 789.6806788905457
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$22",
+      "numeric_name": "N$22",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_22_13",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_13",
+              "x": -1650.0585261963288,
+              "y": 967.9584788905491
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$23",
+      "numeric_name": "N$23",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_23_18",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_18",
+              "x": -1985.0585261963288,
+              "y": 886.9584788905482
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$24",
+      "numeric_name": "N$24",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_24_20",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_20",
+              "x": -2108.0585261963297,
+              "y": 869.95847889055
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$25",
+      "numeric_name": "N$25",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_25_21",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_21",
+              "x": -2158.0585261963306,
+              "y": 792.958478890546
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$26",
+      "numeric_name": "N$26",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_26_22",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_22",
+              "x": -2229.0585261963297,
+              "y": 875.95847889055
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$27",
+      "numeric_name": "N$27",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_27_23",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_23",
+              "x": -2261.05852619633,
+              "y": 797.958478890546
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$28",
+      "numeric_name": "N$28",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_28_33",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_33",
+              "x": -1991.0585261963288,
+              "y": 937.95847889055
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$29",
+      "numeric_name": "N$29",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_29_34",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_34",
+              "x": -1753.0585261963288,
+              "y": 940.9584788905491
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$3",
+      "numeric_name": "N$3",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_3_27",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_27",
+              "x": -2562.058526196333,
+              "y": 936.95847889055
+            },
+            {
+              "type": "pad",
+              "ref": "pad_28",
+              "x": -2566.058526196333,
+              "y": 1028.9584788905486
+            },
+            {
+              "type": "pad",
+              "ref": "pad_29",
+              "x": -2565.058526196333,
+              "y": 1108.9584788905486
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$30",
+      "numeric_name": "N$30",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_30_48",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_48",
+              "x": -2060.0585261963297,
+              "y": 1302.958478890549
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$31",
+      "numeric_name": "N$31",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_31_53",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_53",
+              "x": -1643.0585261963288,
+              "y": 1372.9584788905495
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$32",
+      "numeric_name": "N$32",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_32_56",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_56",
+              "x": -1471.0585261963306,
+              "y": 1232.9584788905481
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$33",
+      "numeric_name": "N$33",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_33_57",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_57",
+              "x": -1476.0585261963306,
+              "y": 1334.95847889055
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$34",
+      "numeric_name": "N$34",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_34_58",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_58",
+              "x": -1447.0585261963297,
+              "y": 1476.95847889055
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$35",
+      "numeric_name": "N$35",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_35_59",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_59",
+              "x": -1227.0585261963292,
+              "y": 1363.9584788905504
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$36",
+      "numeric_name": "N$36",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_36_61",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_61",
+              "x": -1147.0585261963297,
+              "y": 1471.9584788905504
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$37",
+      "numeric_name": "N$37",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_37_63",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_63",
+              "x": -1141.0585261963297,
+              "y": 1064.9584788905486
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$38",
+      "numeric_name": "N$38",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_38_64",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_64",
+              "x": -1165.0585261963297,
+              "y": 1009.9584788905487
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$39",
+      "numeric_name": "N$39",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_39_65",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_65",
+              "x": -1360.0585261963301,
+              "y": 953.95847889055
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$4",
+      "numeric_name": "N$4",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_4_25",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_25",
+              "x": -2340.0585261963324,
+              "y": 873.95847889055
+            },
+            {
+              "type": "pad",
+              "ref": "pad_30",
+              "x": -2337.058526196332,
+              "y": 1024.9584788905486
+            },
+            {
+              "type": "pad",
+              "ref": "pad_31",
+              "x": -2269.058526196331,
+              "y": 952.95847889055
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$40",
+      "numeric_name": "N$40",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_40_66",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_66",
+              "x": -930.0585261963299,
+              "y": 998.9584788905491
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$41",
+      "numeric_name": "N$41",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_41_67",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_67",
+              "x": -943.0585261963304,
+              "y": 1045.9584788905486
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$42",
+      "numeric_name": "N$42",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_42_68",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_68",
+              "x": -1027.058526196329,
+              "y": 1077.9584788905486
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$43",
+      "numeric_name": "N$43",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_43_69",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_69",
+              "x": -867.0585261963307,
+              "y": 1058.9584788905486
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$44",
+      "numeric_name": "N$44",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_44_70",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_70",
+              "x": -818.0585261963287,
+              "y": 1120.9584788905495
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$45",
+      "numeric_name": "N$45",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_45_71",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_71",
+              "x": -763.0585261963282,
+              "y": 1167.9584788905486
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$46",
+      "numeric_name": "N$46",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_46_72",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_72",
+              "x": -685.058526196328,
+              "y": 1176.9584788905495
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$47",
+      "numeric_name": "N$47",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_47_73",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_73",
+              "x": -632.0585261963273,
+              "y": 1168.9584788905486
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$48",
+      "numeric_name": "N$48",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_48_74",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_74",
+              "x": -619.0585261963278,
+              "y": 1062.9584788905486
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$49",
+      "numeric_name": "N$49",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_49_75",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_75",
+              "x": -600.0585261963279,
+              "y": 1265.9584788905477
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$5",
+      "numeric_name": "N$5",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_5_43",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_43",
+              "x": -2502.0585261963306,
+              "y": 1251.958478890549
+            },
+            {
+              "type": "pad",
+              "ref": "pad_239",
+              "x": -2470.7089030852185,
+              "y": 1324.750038623883
+            },
+            {
+              "type": "pad",
+              "ref": "pad_240",
+              "x": -2409.8756030852214,
+              "y": 1378.0833386238828
+            },
+            {
+              "type": "pad",
+              "ref": "pad_118",
+              "x": -2267.0825261963305,
+              "y": 1643.6224788905488
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$50",
+      "numeric_name": "N$50",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_50_76",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_76",
+              "x": -677.0585261963278,
+              "y": 1284.9584788905472
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$51",
+      "numeric_name": "N$51",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_51_77",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_77",
+              "x": -798.0585261963291,
+              "y": 1303.958478890549
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$52",
+      "numeric_name": "N$52",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_52_78",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_78",
+              "x": -883.0585261963305,
+              "y": 1170.9584788905486
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$53",
+      "numeric_name": "N$53",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_53_79",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_79",
+              "x": -860.0585261963305,
+              "y": 1301.958478890549
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$54",
+      "numeric_name": "N$54",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_54_80",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_80",
+              "x": -936.0585261963304,
+              "y": 1286.9584788905472
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$55",
+      "numeric_name": "N$55",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_55_81",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_81",
+              "x": -956.0585261963292,
+              "y": 1460.9584788905504
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$56",
+      "numeric_name": "N$56",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_56_82",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_82",
+              "x": -1021.0585261963288,
+              "y": 1474.95847889055
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$57",
+      "numeric_name": "N$57",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_57_83",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_83",
+              "x": -823.0585261963289,
+              "y": 1450.9584788905504
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$58",
+      "numeric_name": "N$58",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_58_84",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_84",
+              "x": -644.0585261963278,
+              "y": 1444.9584788905504
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$59",
+      "numeric_name": "N$59",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_59_85",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_85",
+              "x": -647.0585261963278,
+              "y": 1552.9584788905486
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$6",
+      "numeric_name": "N$6",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_6_112",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_112",
+              "x": -1993.0825261963291,
+              "y": 1553.6224788905492
+            },
+            {
+              "type": "via",
+              "ref": "via_231",
+              "x": -1093.0309697518846,
+              "y": 2194.8009497349904
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$60",
+      "numeric_name": "N$60",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_60_86",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_86",
+              "x": -818.0585261963287,
+              "y": 1556.9584788905486
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$61",
+      "numeric_name": "N$61",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_61_87",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_87",
+              "x": -816.0585261963287,
+              "y": 1670.9584788905481
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$62",
+      "numeric_name": "N$62",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_62_88",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_88",
+              "x": -648.0585261963278,
+              "y": 1669.9584788905486
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$63",
+      "numeric_name": "N$63",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_63_89",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_89",
+              "x": -971.0585261963297,
+              "y": 1698.9584788905481
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$64",
+      "numeric_name": "N$64",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_64_90",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_90",
+              "x": -815.0585261963287,
+              "y": 1839.9584788905468
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$65",
+      "numeric_name": "N$65",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_65_91",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_91",
+              "x": -644.0585261963278,
+              "y": 1845.9584788905468
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$66",
+      "numeric_name": "N$66",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_66_92",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_92",
+              "x": -965.0585261963301,
+              "y": 1875.9584788905458
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$67",
+      "numeric_name": "N$67",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_67_93",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_93",
+              "x": -955.0585261963292,
+              "y": 1973.9584788905458
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$68",
+      "numeric_name": "N$68",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_68_94",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_94",
+              "x": -1053.0585261963286,
+              "y": 1988.958478890545
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$69",
+      "numeric_name": "N$69",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_69_97",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_97",
+              "x": -1217.0585261963297,
+              "y": 2123.958478890545
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$7",
+      "numeric_name": "N$7",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_7_55",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_55",
+              "x": -1672.0585261963288,
+              "y": 1480.95847889055
+            },
+            {
+              "type": "pad",
+              "ref": "pad_49",
+              "x": -2125.058526196331,
+              "y": 1381.9584788905495
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$70",
+      "numeric_name": "N$70",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_70_98",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_98",
+              "x": -1378.0585261963297,
+              "y": 2121.958478890545
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$71",
+      "numeric_name": "N$71",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_71_99",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_99",
+              "x": -1397.0585261963292,
+              "y": 1679.958478890549
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$72",
+      "numeric_name": "N$72",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_72_100",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_100",
+              "x": -1219.0585261963297,
+              "y": 1679.958478890549
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$73",
+      "numeric_name": "N$73",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_73_101",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_101",
+              "x": -1625.0585261963288,
+              "y": 1771.9584788905477
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$74",
+      "numeric_name": "N$74",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_74_103",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_103",
+              "x": -1716.0585261963279,
+              "y": 1994.958478890545
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$75",
+      "numeric_name": "N$75",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_75_104",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_104",
+              "x": -1732.0585261963283,
+              "y": 2044.958478890545
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$76",
+      "numeric_name": "N$76",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_76_105",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_105",
+              "x": -1682.0585261963288,
+              "y": 2047.958478890545
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$77",
+      "numeric_name": "N$77",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_77_106",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_106",
+              "x": -1789.0585261963279,
+              "y": 2049.958478890545
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$78",
+      "numeric_name": "N$78",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_78_107",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_107",
+              "x": -1850.058526196326,
+              "y": 1983.958478890545
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$79",
+      "numeric_name": "N$79",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_79_108",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_108",
+              "x": -1920.0585261963279,
+              "y": 1989.958478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$8",
+      "numeric_name": "N$8",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_8_41",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_41",
+              "x": -2170.0585261963306,
+              "y": 1229.9584788905481
+            },
+            {
+              "type": "pad",
+              "ref": "pad_47",
+              "x": -2233.0585261963297,
+              "y": 1376.9584788905495
+            },
+            {
+              "type": "pad",
+              "ref": "pad_102",
+              "x": -1786.0585261963279,
+              "y": 1776.9584788905477
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$80",
+      "numeric_name": "N$80",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_80_109",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_109",
+              "x": -1489.0585261963301,
+              "y": 1991.958478890544
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$81",
+      "numeric_name": "N$81",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_81_110",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_110",
+              "x": -1546.0585261963297,
+              "y": 2117.9584788905454
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$82",
+      "numeric_name": "N$82",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_82_111",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_111",
+              "x": -1604.0585261963297,
+              "y": 2115.9584788905454
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$83",
+      "numeric_name": "N$83",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_83_114",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_114",
+              "x": -2228.082526196329,
+              "y": 1554.6224788905492
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$84",
+      "numeric_name": "N$84",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_84_115",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_115",
+              "x": -2409.0825261963323,
+              "y": 1557.6224788905492
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$85",
+      "numeric_name": "N$85",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_85_116",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_116",
+              "x": -2462.0825261963305,
+              "y": 1556.6224788905492
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$86",
+      "numeric_name": "N$86",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_86_117",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_117",
+              "x": -2320.082526196332,
+              "y": 1643.6224788905488
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$87",
+      "numeric_name": "N$87",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_87_119",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_119",
+              "x": -2205.08252619633,
+              "y": 1646.6224788905488
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$88",
+      "numeric_name": "N$88",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_88_120",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_120",
+              "x": -2079.082526196329,
+              "y": 1653.6224788905479
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$89",
+      "numeric_name": "N$89",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_89_121",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_121",
+              "x": -1962.0825261963282,
+              "y": 1655.6224788905479
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$9",
+      "numeric_name": "N$9",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_9_46",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_46",
+              "x": -2290.0585261963315,
+              "y": 1297.9584788905481
+            },
+            {
+              "type": "pad",
+              "ref": "pad_113",
+              "x": -2115.08252619633,
+              "y": 1555.6224788905492
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$90",
+      "numeric_name": "N$90",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_90_122",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_122",
+              "x": -2016.0825261963282,
+              "y": 1711.6224788905497
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$91",
+      "numeric_name": "N$91",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_91_123",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_123",
+              "x": -1968.0825261963282,
+              "y": 1758.6224788905474
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$92",
+      "numeric_name": "N$92",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_92_124",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_124",
+              "x": -1918.0825261963273,
+              "y": 1685.6224788905497
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$93",
+      "numeric_name": "N$93",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_93_125",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_125",
+              "x": -2030.0825261963282,
+              "y": 1814.6224788905474
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$94",
+      "numeric_name": "N$94",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_94_126",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_126",
+              "x": -2008.0825261963282,
+              "y": 1865.6224788905465
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$95",
+      "numeric_name": "N$95",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_95_127",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_127",
+              "x": -2062.082526196329,
+              "y": 1869.6224788905465
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$96",
+      "numeric_name": "N$96",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_96_128",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_128",
+              "x": -2124.0825261963305,
+              "y": 1870.6224788905465
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$97",
+      "numeric_name": "N$97",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_97_129",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_129",
+              "x": -2176.08252619633,
+              "y": 1870.6224788905465
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$98",
+      "numeric_name": "N$98",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_98_130",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_130",
+              "x": -2222.082526196329,
+              "y": 1870.6224788905465
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    },
+    {
+      "name": "N$99",
+      "numeric_name": "N$99",
+      "logical_name": null,
+      "type": "signal",
+      "nodes": [
+        {
+          "id": "node_n_99_131",
+          "connections": [
+            {
+              "type": "pad",
+              "ref": "pad_131",
+              "x": -2258.0825261963296,
+              "y": 1817.6224788905465
+            }
+          ],
+          "expected_voltage": {
+            "min": 0,
+            "max": 5
+          },
+          "signal_type": "analog",
+          "criticality": "medium"
+        }
+      ]
+    }
+  ],
+  "test_points": []
+}

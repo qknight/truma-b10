@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "generated": "2026-06-01T09:52:14.445Z",
+    "aiProvider": "gemini",
+    "aiModel": "gemini-2.5-flash",
+    "interactionType": "datasheet_extraction"
+  },
+  "data": {
+    "pins": [
+      {
+        "pinNumber": 1,
+        "pinName": "Output 1",
+        "pinDescription": "Output of Amplifier 1",
+        "pinType": "output"
+      },
+      {
+        "pinNumber": 2,
+        "pinName": "Inverting Input 1",
+        "pinDescription": "Inverting input of Amplifier 1",
+        "pinType": "analog"
+      },
+      {
+        "pinNumber": 3,
+        "pinName": "Non-inverting Input 1",
+        "pinDescription": "Non-inverting input of Amplifier 1",
+        "pinType": "analog"
+      },
+      {
+        "pinNumber": 4,
+        "pinName": "Vcc+",
+        "pinDescription": "Positive power supply",
+        "pinType": "power"
+      },
+      {
+        "pinNumber": 5,
+        "pinName": "Non-inverting Input 2",
+        "pinDescription": "Non-inverting input of Amplifier 2",
+        "pinType": "analog"
+      },
+      {
+        "pinNumber": 6,
+        "pinName": "Inverting Input 2",
+        "pinDescription": "Inverting input of Amplifier 2",
+        "pinType": "analog"
+      },
+      {
+        "pinNumber": 7,
+        "pinName": "Output 2",
+        "pinDescription": "Output of Amplifier 2",
+        "pinType": "output"
+      },
+      {
+        "pinNumber": 8,
+        "pinName": "Output 3",
+        "pinDescription": "Output of Amplifier 3",
+        "pinType": "output"
+      },
+      {
+        "pinNumber": 9,
+        "pinName": "Inverting Input 3",
+        "pinDescription": "Inverting input of Amplifier 3",
+        "pinType": "analog"
+      },
+      {
+        "pinNumber": 10,
+        "pinName": "Non-inverting Input 3",
+        "pinDescription": "Non-inverting input of Amplifier 3",
+        "pinType": "analog"
+      },
+      {
+        "pinNumber": 11,
+        "pinName": "Vcc-",
+        "pinDescription": "Negative power supply (or ground for single supply operation)",
+        "pinType": "power"
+      },
+      {
+        "pinNumber": 12,
+        "pinName": "Non-inverting Input 4",
+        "pinDescription": "Non-inverting input of Amplifier 4",
+        "pinType": "analog"
+      },
+      {
+        "pinNumber": 13,
+        "pinName": "Inverting Input 4",
+        "pinDescription": "Inverting input of Amplifier 4",
+        "pinType": "analog"
+      },
+      {
+        "pinNumber": 14,
+        "pinName": "Output 4",
+        "pinDescription": "Output of Amplifier 4",
+        "pinType": "output"
+      }
+    ],
+    "properties": {
+      "partNumber": "LM324N",
+      "packageType": "DIP14",
+      "manufacturer": "STMicroelectronics",
+      "icType": "Op-Amp",
+      "description": "These circuits consist of four independent, high gain, internally frequency compensated operational amplifiers. They operate from a single power supply over a wide range of voltages. Operation from split power supplies is also possible and the low power supply current drain is independent of the magnitude of the power supply voltage.",
+      "operatingTemperature": "0°C to +70°C",
+      "voltage": "3V to 30V (single supply), ±1.5V to ±15V (dual supply)",
+      "voltageUnit": "V",
+      "current": 375,
+      "currentUnit": "µA/amplifier (typical supply current)",
+      "pinCount": 14
+    },
+    "summary": {
+      "datasheetSummary": "The LM324 is a low-power quad operational amplifier featuring four independent, high-gain, internally frequency-compensated op-amps. It supports a wide power supply range, operating from a single supply of +3V to +30V or dual supplies of ±1.5V to ±15V. Key features include a wide gain bandwidth of 1.3MHz, a large voltage gain of 100dB, and very low supply current per amplifier of 375µA."
+    },
+    "extractionStatus": {
+      "status": "COMPLETE",
+      "warnings": []
+    }
+  }
+}
