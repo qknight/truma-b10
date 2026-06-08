@@ -23,6 +23,16 @@ Key details:
 ![Back View](back.jpg)
 ![preview](preview.jpg)
 
+## Status
+
+* All importatnt components have been added with "pcb tracer"
+* The property values like resistance haven't been assigned
+* Connections are visually correct but the connections aren't done properly so the export to KiCad schema file won't work
+
+The value is that one can know where to take meassurements and where not.
+
+For instance, don't measure anything near the big blue box at the bottom and don't touch it either.
+
 ## Contents
 
 - High-resolution scans of the PCB (top and bottom)
@@ -42,3 +52,8 @@ Contributions, additional photos, or corrections are welcome!
 Different board but basically very good information.
 
 https://www.youtube.com/watch?v=i9w5oOKL_Zs
+
+## License
+
+This documentation is licensed under the Creative Commons Attribution 4.0 International License. You are free to share and adapt the material for any purpose, even commercially, as long as appropriate credit is given, and any changes made are noted. To view a copy of this license, visit [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/).
+
