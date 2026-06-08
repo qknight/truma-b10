@@ -21,6 +21,7 @@ Key details:
 
 ![Front View](front.jpg)
 ![Back View](back.jpg)
+![preview](preview.jpg)
 
 ## Contents
 
