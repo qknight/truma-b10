@@ -21,7 +21,7 @@ Key details:
 
 ![Front View](front.jpg)
 ![Back View](back.jpg)
-![preview](preview.jpg)
+![preview](preview.png)
 
 ## Status
 
@@ -52,6 +52,30 @@ Contributions, additional photos, or corrections are welcome!
 Different board but basically very good information.
 
 https://www.youtube.com/watch?v=i9w5oOKL_Zs
+
+
+# Experiments
+
+If you build a HiL setup you need:
+
+From the grey connector:
+- Connect 12V (pin 1) and GND (pin 3)
+- Connect pin 4 and 8 with a resistor (emulates temperature reading)
+- Connect 5 and 9 somehow
+- Connect 11 via 8 resistor ohm to 12V
+- Connect 12 via 150 ohm resistor to 12V
+
+The yellow connector:
+- Connect pin 6 and pin 5 via a switch (always on won't work)
+- Connect pin 6 and pin 4 (max temperature is +12V)
+
+The black connector:
+- This is only a debugging interface
+
+## Closing the switch
+
+
+
 
 ## License
 
