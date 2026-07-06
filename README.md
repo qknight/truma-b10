@@ -72,10 +72,11 @@ The yellow connector:
 The black connector:
 - This is only a debugging interface
 
-## Closing the switch
+# Parts
 
+The blue box is a variant of https://www.google.com/search?q=4kv%2F10kv%2F15kv%2F20kv+Pin+Type+High+Voltage+Step-up+Transformer+Ignition+Coils+for+Kitchenware+Stove&udm=2&sxsrf=APpeQnsgIzzW564UZjNC6TG--9HMCnheIQ%3A1783326759310
 
-
+In older pictures one can see a transparent case (not the blue plastic) as in the picture.
 
 ## License
 
